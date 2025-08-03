@@ -9,7 +9,9 @@ This project implements a real-time event-driven system for monitoring taxi trip
 ---
 
 ##  Architecture
-![Architecture Diagram](real_time_trip_architecture.png)
+
+<img width="1580" height="980" alt="output" src="https://github.com/user-attachments/assets/a97001f0-5521-4357-a480-427b14a47add" />
+
 
 **Flow:**
 1. **Event Hub** ingests trip events in JSON format.
